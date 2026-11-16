@@ -1,0 +1,5 @@
+{
+  "name": "quota-guard",
+  "version": "0.1.0",
+  "description": "Shows plan usage and the active account; switches account with cswap near the limit, and pauses until the earliest reset when every account is near it."
+}

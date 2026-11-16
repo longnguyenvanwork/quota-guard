@@ -1,0 +1,5 @@
+{
+  "name": "quota-guard",
+  "owner": { "name": "longnguyenvanwork" },
+  "plugins": [{ "name": "quota-guard", "source": "./" }]
+}
